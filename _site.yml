@@ -1,11 +1,11 @@
-name: "John Appleseed"
-title: "John Appleseed"
-pagetitle: "John Appleseed"
+name: "Daehwan Kim"
+title: "Daehwan Kim"
+pagetitle: "Daehwan Kim"
 base_url: https://daehwankim96.github.io/
 google_analytics: "" # e.g. "UA-XXXXXXXXX-1", GA tracking code
 output_dir: "."
 navbar:
-  title: "John Appleseed"
+  title: "Daehwan Kim"
   left:
     - text: "Tutorials"
       href: tutorials.html
