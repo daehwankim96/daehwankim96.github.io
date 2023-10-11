@@ -15,7 +15,7 @@ navbar:
         href: stat1.html
       - text: "Preicting House Prices in NYC"
         href: stat2.html
-    
+
     - text: "DB/SQL"
       menu: 
       - text: "Movie Explorer"
@@ -30,13 +30,13 @@ navbar:
     #- icon: ai-cv ai-lg
     #  href: files/sample_resume.pdf
     - icon: fab fa-github
-      href: http://github.com/
+      href: http://daehwankim96.github.io
     - icon: fab fa-linkedin-in
-      href: https://www.linkedin.com/
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/
-    - icon: ai-researchgate ai-lg
-      href: https://www.researchgate.net/
+      href: https://www.linkedin.com/in/daehwankim0/
+    #- icon: ai-google-scholar ai-lg
+      #href: https://scholar.google.com/
+    #- icon: ai-researchgate ai-lg
+      #href: https://www.researchgate.net/
 output:
   html_document:
     theme: cosmo
