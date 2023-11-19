@@ -54,8 +54,9 @@ I am a Project Manager in the Department of Sales & Marketing at MIDAS Informati
 - 💪 Specialized in analyzing customer-driven data using Customer Relationship Management tools such as Hubspot and applying insights to drive strategic decision-making, leveraging my experience in project management and communication.
 
 + Programming: Python, R
-+ Data visualization: HubSpot, Power BI
-+ Database: SQL
++ Visualization: HubSpot, Google Data Studio
++ Database: SQL, MySQL, PostgreSQL
++ Version Control / CRM: Git, Github, HubSpot
 
 ### 📫 Connect with Me
 
