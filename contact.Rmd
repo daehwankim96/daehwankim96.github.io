@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "Daehwan Kim"
+author: "Dae Hwan Kim"
 date: 
 output: html_document
 ---
@@ -12,7 +12,7 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **Daehwan Kim**
+#### **Dae Hwan Kim**
 ##### Project Manager | MIDAS IT <img src="images/college_logo.png" style="width:35%;" align="right">
 
 📍 Seoul <br>
