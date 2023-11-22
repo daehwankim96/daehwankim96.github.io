@@ -1,5 +1,5 @@
 ---
-pagetitle: "Index"
+pagetitle: "Dae Hwan Kim"
 output: html_document
 ---
 

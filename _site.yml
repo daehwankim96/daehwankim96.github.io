@@ -1,11 +1,11 @@
-name: "Daehwan Kim"
-title: "Daehwan Kim"
-pagetitle: "Daehwan Kim"
+name: "Dae Hwan Kim"
+title: "Dae Hwan Kim"
+pagetitle: "Dae Hwan Kim"
 base_url: https://daehwankim96.github.io/
 google_analytics: "" # e.g. "UA-XXXXXXXXX-1", GA tracking code
 output_dir: "."
 navbar:
-  title: "Daehwan Kim"
+  title: "Dae Hwan Kim"
   left:
     - text: "Tutorials"
       href: tutorials.html
