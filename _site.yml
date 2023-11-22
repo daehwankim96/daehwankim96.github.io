@@ -7,8 +7,6 @@ output_dir: "."
 navbar:
   title: "Dae Hwan Kim"
   left:
-    - text: "Tutorials"
-      href: tutorials.html
     - text: "Stat/ML"
       menu: 
       - text: "Predicting House Prices in Iowa"
