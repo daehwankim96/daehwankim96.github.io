@@ -25,8 +25,8 @@ navbar:
   right:
     - icon: fas fa-envelope
       href: contact.html
-    #- icon: ai-cv ai-lg
-    #  href: files/sample_resume.pdf
+    - icon: ai-cv ai-lg
+      href: files/Dae Hwan Kim_Resume.pdf
     - icon: fab fa-github
       href: http://daehwankim96.github.io
     - icon: fab fa-linkedin-in
