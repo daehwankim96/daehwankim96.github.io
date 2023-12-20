@@ -52,7 +52,7 @@ To predict the final price of each home using 79 explanatory variables describin
 
 ### 4. Code
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+Please click [HERE](https://github.com/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
 
 <br>
 
