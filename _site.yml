@@ -9,7 +9,7 @@ navbar:
   left:
     - text: "Stat/ML"
       menu: 
-      - text: "Predicting House Prices in Iowa"
+      - text: "Predicting Bank Customer Churn"
         href: stat1.html
       - text: "Preicting House Prices in NYC"
         href: stat2.html

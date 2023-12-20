@@ -14,25 +14,22 @@ output:
 
 <br><br><br>
 
-## **Predicting House Prices in Iowa**
+## **Predictive Analysis of Bank Customer Churn in Python: Enhancing Retention Strategies through Machine Learning**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-LASSO-red)
-![](https://img.shields.io/badge/-XGBoost-success)
-
+![](https://img.shields.io/badge/-RandomForest-red)
+![](https://img.shields.io/badge/-BinaryClassification-green)
 <br>
-
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
 
 <br><br><br>
 
 ### 1. Figure
 
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/bank_churn.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig. Random Forest features by importance]
 </p>
 
 
