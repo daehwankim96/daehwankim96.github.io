@@ -23,7 +23,7 @@ output:
 
 <br><br><br>
 
-### 1. Figure
+### **1. Figure**
 
 <p align="center">
 <img src="images/bank_churn.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -37,12 +37,12 @@ output:
 
 <br><br>
 
-### 2. Goal
+### **2. Goal**
 The primary goal of this project was to predict customer churn using various machine learning models. By accurately identifying customers likely to churn, the analysis aimed to provide insights that could inform customer retention strategies and improve decision-making processes in customer relationship management.
 
 <br>
 
-### 3. Methodology & Summary
+### **3. Methodology & Summary**
 
   + **Methodology**: The project involved an exploratory data analysis to understand customer demographics, transaction behaviors, and financial habits. This was followed by preprocessing the data, including feature scaling and encoding. Various machine learning models such as Random Forest, SVM, Decision Tree, KNN, and Lasso Logistic Regression were then trained and evaluated.
   
@@ -50,7 +50,7 @@ The primary goal of this project was to predict customer churn using various mac
 
 <br>
 
-### 4. Code
+### **4. Code**
 
 Please click [HERE](https://nbviewer.org/github/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
 
