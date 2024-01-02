@@ -38,21 +38,21 @@ output:
 <br><br>
 
 ### 2. Goal
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+The primary goal of this project was to predict customer churn using various machine learning models. By accurately identifying customers likely to churn, the analysis aimed to provide insights that could inform customer retention strategies and improve decision-making processes in customer relationship management.
 
 <br>
 
 ### 3. Methodology & Summary
 
-  + LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
-  + The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
-  + As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
+  + **Methodology**: The project involved an exploratory data analysis to understand customer demographics, transaction behaviors, and financial habits. This was followed by preprocessing the data, including feature scaling and encoding. Various machine learning models such as Random Forest, SVM, Decision Tree, KNN, and Lasso Logistic Regression were then trained and evaluated.
+  
+  + **Summary**: The Random Forest model emerged as the top performer with an accuracy of 95.39% and an AUC score of 0.98. Key variables influencing churn, consistent across models, included Total_Trans_Amt, Total_Trans_Ct, and others. The analysis provided valuable insights into factors driving customer churn, highlighting the potential for targeted retention strategies and data-driven decision-making in banking services.
 
 <br>
 
 ### 4. Code
 
-Please click [HERE](https://github.com/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
 
 <br>
 
