@@ -25,10 +25,10 @@ output:
 
 ### **1. Figure**
 <p align="center">
-<img src="randomforest.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/randomforest.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. Random Forest features by importance]
+[Fig. Random Forest Features by Importance]
 </p>
 <br>
 
@@ -54,7 +54,7 @@ The primary goal of this project was to predict customer churn using various mac
 
   + **Methodology**: The project involved an exploratory data analysis to understand customer demographics, transaction behaviors, and financial habits. This was followed by preprocessing the data, including feature scaling and encoding. Various machine learning models such as random forest, support vector machine (SVM), decision tree, k-nearest neighbor (kNN), and LASSO logistic regression were then trained and evaluated. The model's performance assessment was conducted by evaluating it against various criteria, including accuracy, precision, recall, and the area under the curve (AUC).
   
-  + **Summary**: The Random Forest model emerged as the top performer with an accuracy of 95.39% and an AUC score of 0.98. Key variables influencing churn, consistent across models, included Total_Trans_Amt, Total_Trans_Ct, and others. The analysis provided valuable insights into factors driving customer churn, highlighting the potential for targeted retention strategies and data-driven decision-making in banking services.
+  + **Summary**: The Random Forest model emerged as the top performer with an accuracy of 95.39% and an AUC score of 0.98. Key variables influencing churn, consistent across models, included Total Transaction Amount (`Total_Trans_Amt`), Total Transaction Count (`Total_Trans_Ct`), and others. The analysis provided valuable insights into factors driving customer churn, highlighting the potential for targeted retention strategies and data-driven decision-making in banking services.
 
 <br>
 
