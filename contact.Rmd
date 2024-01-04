@@ -13,7 +13,8 @@ output: html_document
 <br><br><br><br><br><br>
 
 #### **Dae Hwan Kim**
-##### Project Manager | MIDAS IT <img src="images/college_logo.png" style="width:35%;" align="right">
+##### Project Manager | MIDAS IT 
+<!-- <img src="images/college_logo.png" style="width:35%;" align="right"> -->
 
 📍 Seoul <br>
 📱 (+82) 10 2803 - 44468 <br>
