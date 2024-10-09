@@ -15,7 +15,7 @@ output: html_document
 <br>
 👋 Hello! I'm **Dae Hwan Kim**
 
-Currently living in Seoul, South Korea.
+Currently living in New York, NY.
 
 🎓 Graduated from Boston College with a focus on Communication.
 
