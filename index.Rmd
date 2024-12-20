@@ -13,33 +13,33 @@ output: html_document
 </p>
 
 <br>
-👋 Hello! I'm **Dae Hwan Kim**
+👋 Hello! I'm **Dae Hwan Kim**, a graduate student with extensive experience in Data Analytics and Strategy.
 
-Currently living in New York, NY.
+📍 Currently based in New York, NY.
 
 🎓 Graduated from Boston College with a focus on Communication.
 
-👨‍💻 2 years of experience in analyzing customer data using a Customer Relationship Management tool and developing actionable strategies.
+👨‍💻  I’m pursuing a graduate degree in Applied Analytics at Columbia University, building on my strong foundation in communication from Boston College, along with 2 years of experience analyzing customer data and developing actionable strategies using CRM tools.
+
+💼 Previously, I worked as a **Project Manager** at MIDAS IT. My role involves:
+
+- Utilizing SQL for comprehensive data management.
+- Successfully promoting MIDAS Structural Engineering Software to over 80 universities in the US, UK, and Canada, exceeding targets by 200%.
+- Orchestrating personalized engagement strategies for over 300 professors through various channels, leveraging SQL-driven insights to effectively tailor communications and enhance market penetration.
+
+💻 My skill set includes:
 
 - **Programming:** R, Python
 - **Data Visualization:** HubSpot, Power BI
 - **Database Management:** SQL, MySQL, PostgreSQL
 - **Version Control:** Git
 
-🔥 Aiming to become a B2B marketer who enhances processes and systems with a customer-centric approach in both online and offline businesses.
+🔥 My goal is to apply my expertise in data analytics and business strategy to drive impactful, data-driven solutions in the industry. By utilizing advanced analytical techniques, I aim to transform raw data into actionable insights that help organizations optimize their operations and solve complex challenges.
 
-💼 Currently working as a **Project Manager** at MIDAS IT. My role involves:
-
-- Utilizing SQL for comprehensive data management.
-- Successfully promoting MIDAS Structural Engineering Software to over 80 universities in the US, UK, and Canada, exceeding targets by 200%.
-- Orchestrating personalized engagement strategies for over 300 professors through various channels, leveraging SQL-driven insights to effectively tailor communications and enhance market penetration.
-
-💻 Future Goal: **To become a data-driven Project Manager** who can timely identify and resolve facility issues in B2B companies.
-
-🌍 Mission: Connecting people with better products and services worldwide.
+🌍 My mission is to connect people with better products and services worldwide.
 
 In my free time, I 🎾 Enjoy playing tennis and ⚽ Analyze soccer tactics and strategies.
 
 ---
 
-For more details or inquiries, feel free to reach out via [daehwankim0929@gmail.com](mailto:daehwankim0929@gmail.com).
+For more details or inquiries, feel free to reach out via [brad.dhkim@gmail.com](mailto:brad.dhkim@gmail.com).
