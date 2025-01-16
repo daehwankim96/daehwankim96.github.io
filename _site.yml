@@ -11,8 +11,8 @@ navbar:
       menu: 
       - text: "Predicting Bank Customer Churn"
         href: stat1.html
-    #  - text: "Preicting House Prices in NYC"
-    #    href: stat2.html
+      - text: "Predicting Click-Through Rate (CTR)"
+        href: stat2.html
 
     #- text: "DB/SQL"
     #  menu: 
