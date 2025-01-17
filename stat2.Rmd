@@ -14,48 +14,53 @@ output:
 
 <br><br><br>
 
-## **Predicting House Prices in NYC**
+## **Predictive Analysis of Click-Through Rate (CTR) in R: Optimizing Digital Ad Performance with Machine Learning**
 
-![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-LASSO-red)
-![](https://img.shields.io/badge/-XGBoost-success)
+![](https://img.shields.io/badge/Using-R-blue)
+![](https://img.shields.io/badge/-XGBoost-red)
+![](https://img.shields.io/badge/-BayesianOptimization-green)
 
 <br>
 
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
-
 <br><br><br>
-
-### 1. Figure
-
+### **1. Figure**
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/ctr_correlation.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig. Correlation Heatmap of Ad Features for CTR Prediction]
 </p>
+<br>
 
+### **2. Figure**
+
+<p align="center">
+<img src="images/ctr_rmse.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig. RMSE Comparison of Machine Learning Models]
+</p>
 
 <br>
 
 <br><br>
 
-### 2. Goal
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+### **2. Goal**
+This project predicts Click-Through Rate (CTR) to optimize digital ad performance. Using machine learning, it identifies key ad factors—quality, relevance, and audience targeting—to provide actionable insights for improving engagement and conversions. By leveraging data-driven strategies, the project helps businesses enhance ad effectiveness and maximize return on investment.
 
 <br>
 
-### 3. Methodology & Summary
+### **3. Methodology & Summary**
 
-  + LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
-  + The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
-  + As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
+  + **Methodology**: Data was cleaned and preprocessed, handling missing values and encoding categorical variables. Feature engineering identified key predictors, and machine learning models (Logistic Regression, Decision Tree, Random Forest, XGBoost) were tested. Bayesian Optimization fine-tuned hyperparameters to maximize accuracy. A comparative evaluation of models was conducted using RMSE to ensure robust predictive performance.
+  
+  + **Summary**: XGBoost outperformed other models, delivering the most accurate CTR predictions by capturing complex ad-performance patterns. The final model provides valuable insights to refine targeting strategies and improve digital advertising efficiency. These insights empower businesses to allocate marketing budgets effectively and drive higher user engagement.
 
 <br>
 
-### 4. Code
+### **4. Code**
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
 
 <br>
 
