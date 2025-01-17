@@ -337,6 +337,9 @@ div.tocify {
     <li>
       <a href="stat1.html">Predicting Bank Customer Churn</a>
     </li>
+    <li>
+      <a href="stat2.html">Predicting Click-Through Rate (CTR)</a>
+    </li>
   </ul>
 </li>
       </ul>
@@ -381,54 +384,67 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
 <p><br><br><br></p>
-<div id="predicting-house-prices-in-nyc" class="section level2">
-<h2><strong>Predicting House Prices in NYC</strong></h2>
-<p><img src="https://img.shields.io/badge/Using-Python-blue" /> <img
-src="https://img.shields.io/badge/-LASSO-red" /> <img
-src="https://img.shields.io/badge/-XGBoost-success" /></p>
+<div
+id="predictive-analysis-of-click-through-rate-ctr-in-r-optimizing-digital-ad-performance-with-machine-learning"
+class="section level2">
+<h2><strong>Predictive Analysis of Click-Through Rate (CTR) in R:
+Optimizing Digital Ad Performance with Machine Learning</strong></h2>
+<p><img src="https://img.shields.io/badge/Using-R-blue" /> <img
+src="https://img.shields.io/badge/-XGBoost-red" /> <img
+src="https://img.shields.io/badge/-BayesianOptimization-green" /></p>
 <p><br></p>
-<p>🚨<strong>THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE
-STEPBYSTAT COMMUNITY.</strong></p>
 <p><br><br><br></p>
 <div id="figure" class="section level3">
-<h3>1. Figure</h3>
+<h3><strong>1. Figure</strong></h3>
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/ctr_correlation.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Fig1.. Correlation Heatmap of Ad Features for CTR Prediction]
+</p>
+<p><br></p>
+<p align="center">
+<img src="images/ctr_rmse.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig2. RMSE Comparison of Machine Learning Models]
 </p>
 <p><br></p>
 <p><br><br></p>
 </div>
 <div id="goal" class="section level3">
-<h3>2. Goal</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
+<h3><strong>2. Goal</strong></h3>
+<p>This project predicts Click-Through Rate (CTR) to optimize digital ad
+performance. Using machine learning, it identifies key ad
+factors—quality, relevance, and audience targeting—to provide actionable
+insights for improving engagement and conversions. By leveraging
+data-driven strategies, the project helps businesses enhance ad
+effectiveness and maximize return on investment.</p>
 <p><br></p>
 </div>
 <div id="methodology-summary" class="section level3">
-<h3>3. Methodology &amp; Summary</h3>
+<h3><strong>3. Methodology &amp; Summary</strong></h3>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li><p><strong>Methodology</strong>: Data was cleaned and preprocessed,
+handling missing values and encoding categorical variables. Feature
+engineering identified key predictors, and machine learning models
+(Logistic Regression, Decision Tree, Random Forest, XGBoost) were
+tested. Bayesian Optimization fine-tuned hyperparameters to maximize
+accuracy. A comparative evaluation of models was conducted using RMSE to
+ensure robust predictive performance.</p></li>
+<li><p><strong>Summary</strong>: XGBoost outperformed other models,
+delivering the most accurate CTR predictions by capturing complex
+ad-performance patterns. The final model provides valuable insights to
+refine targeting strategies and improve digital advertising efficiency.
+These insights empower businesses to allocate marketing budgets
+effectively and drive higher user engagement.</p></li>
 </ul>
 <p><br></p>
 </div>
 <div id="code" class="section level3">
-<h3>4. Code</h3>
+<h3><strong>4. Code</strong></h3>
 <p>Please click <a
-href="https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report">HERE</a>
+href="https://nbviewer.org/github/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb">HERE</a>
 for the analysis report and code.</p>
 <p><br></p>
 </div>

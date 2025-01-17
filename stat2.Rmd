@@ -23,22 +23,23 @@ output:
 <br>
 
 <br><br><br>
+
 ### **1. Figure**
+
 <p align="center">
 <img src="images/ctr_correlation.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. Correlation Heatmap of Ad Features for CTR Prediction]
+[Fig1. Correlation Heatmap of Ad Features for CTR Prediction]
 </p>
 <br>
 
-### **2. Figure**
 
 <p align="center">
 <img src="images/ctr_rmse.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. RMSE Comparison of Machine Learning Models]
+[Fig2. RMSE Comparison of Machine Learning Models]
 </p>
 
 <br>
