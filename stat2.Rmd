@@ -61,7 +61,7 @@ This project predicts Click-Through Rate (CTR) to optimize digital ad performanc
 
 ### **4. Code**
 
-Please click [HERE](https://nbviewer.org/github/daehwankim96/daehwankim96.github.io/blob/main/files/Bank_Churn_Rate.ipynb) for the analysis report and code.
+Please click [HERE](./files/PAC_Dae-Hwan-Kim.html) for the analysis report and code.
 
 <br>
 
