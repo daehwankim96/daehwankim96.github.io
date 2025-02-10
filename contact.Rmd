@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "Dae Hwan Kim"
+author: "Brad (Dae Hwan) Kim"
 date: 
 output: html_document
 ---
@@ -12,10 +12,10 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **Dae Hwan Kim**
-##### Project Manager | MIDAS IT 
+#### **Brad Kim**
+##### MS Candidate in Applied Analytics | Columbia University 
 <!-- <img src="images/college_logo.png" style="width:35%;" align="right"> -->
 
-📍 Seoul <br>
-📱 (+82) 10 2803 - 44468 <br>
-✉️ [daehwankim0929@gmail.com](mailto:daehwankim0929@gmail.com) <br>
+📍 New York <br>
+📱 (+1) 551 375 1596 <br>
+✉️ [brad.dhkim@gmail.com](mailto:brad.dhkim@gmail.com) <br>
