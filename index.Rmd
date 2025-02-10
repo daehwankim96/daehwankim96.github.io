@@ -1,5 +1,5 @@
 ---
-pagetitle: "Dae Hwan Kim"
+pagetitle: "Brad (Dae Hwan) Kim"
 output: html_document
 ---
 
@@ -13,7 +13,7 @@ output: html_document
 </p>
 
 <br>
-👋 Hello! I'm **Dae Hwan Kim**, a graduate student with extensive experience in Data Analytics and Strategy.
+👋 Hello! I'm **Brad Kim**, a graduate student with extensive experience in Data Analytics and Strategy.
 
 📍 Currently based in New York, NY.
 
