@@ -28,9 +28,9 @@ output: html_document
 💻 My skill set includes:
 
 - **Programming:** R, Python
-- **Data Visualization:** HubSpot, Power BI
-- **Database Management:** SQL, MySQL, PostgreSQL
-- **Version Control:** Git
+- **Data Visualization:** Power BI, Tableau, Looker
+- **Database Management:** MySQL, PostgreSQL, Big Query, SnowFlake
+- **Version Control:** Git, Github, HubSpot
 
 🔥 My goal is to drive impactful, data-driven solutions that help organizations optimize their operations and solve complex challenges.
 
