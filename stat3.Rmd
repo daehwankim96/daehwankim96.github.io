@@ -1,0 +1,68 @@
+---
+pagetitle: "Stat3"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br><br><br>
+
+## **Enhancing Profitability for Airbnb Properties Using Tableau and Predictive Analytics**
+
+![](https://img.shields.io/badge/Using-Tableau-green)
+
+<br>
+
+<br><br><br>
+
+### **1. Figure**
+
+<p align="center">
+<img src="images/tableau_pro1.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig1. Nightly Rate and Occupancy Correlation]
+</p>
+<br>
+
+
+<p align="center">
+<img src="images/tableau_pro2.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Fig2. High Maintenance Cost Analysis]
+</p>
+
+<br>
+
+<br><br>
+
+### **2. Goal**
+This project analyzed Airbnb operational data from RevBoost across five major U.S. cities—Chicago, Los Angeles, New York, Miami, and San Francisco—to address an 18% revenue decline in Q1 2024. The goal was to identify key inefficiencies in cost, pricing, and marketing strategies. By uncovering these gaps, the project aimed to develop data-driven solutions. The objective was to restore profitability and support sustainable growth.
+
+<br>
+
+### **3. Methodology & Summary**
+
+  + **Methodology**: Tableau was used to visualize regional trends in profitability, spending behavior, and cost breakdowns. Regression analysis and Excel modeling helped identify pricing inefficiencies and cost drivers. ChatGPT simulations provided realistic financial scenarios for evaluating strategic options. The analysis incorporated operational, financial, and marketing data across the five cities.
+
+  
+  + **Summary**: The analysis revealed that high operational costs, undynamic pricing, and poor customer targeting drove the revenue decline. Miami’s cost-efficient model stood out as a scalable benchmark. Key recommendations included adopting dynamic pricing algorithms, optimizing costs through bulk purchasing, and refocusing marketing efforts. These strategies are expected to improve profit margins and reverse the downward trend.
+
+
+<br>
+
+### **4. Code**
+
+Please click [HERE](./files/Revboost.pdf) for the analysis report and code.
+
+<br>
+
+

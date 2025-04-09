@@ -13,6 +13,8 @@ navbar:
         href: stat1.html
       - text: "Predicting Click-Through Rate (CTR)"
         href: stat2.html
+      - text: "Enhancing Airbnb Revenue with Tableau"
+        href: stat3.html
 
     #- text: "DB/SQL"
     #  menu: 
