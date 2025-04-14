@@ -59,7 +59,7 @@ This project analyzed Airbnb operational data from RevBoost across five major U.
 
 <br>
 
-### **4. Code**
+### **4. Anaylsis Report**
 
 Please click [HERE](./files/Revboost.pdf) for the analysis report.
 
